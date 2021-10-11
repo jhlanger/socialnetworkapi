@@ -1,11 +1,3 @@
-getAllUsers,
-getUserById,
-createUser,
-updateUser,
-deleteUser,
-addFriend,
-deleteFriend
-
 const { User } = require('../models');
 
 const userController = {
