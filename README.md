@@ -26,8 +26,11 @@ The purpose of this app is to operate as the backend code for a social media sta
 
 * User Post: 
 `{`
+
   `"username": "jhlanger",`
+
  ` "email": "jhlanger@test.com"`
+
 `}`
 
 ## Built With
