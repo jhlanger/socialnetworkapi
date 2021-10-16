@@ -10,26 +10,32 @@ The purpose of this app is to operate as the backend code for a social media sta
 
 * Reply Post: 
 
-`{
-  "replyBody": "Cool thought bro",
-  "username": "jhlanger"
-}`
+`{`
+
+  `"replyBody": "Cool thought bro",`
+
+  `"username": "jhlanger"`
+
+`}`
 
 * Thought Post: 
 
-`{
-  "thoughtText": "this is jhlanger's thought!",
-  "username": "jhlanger"
+`{`
+
+  `"thoughtText": "this is jhlanger's thought!",`
+
+  `"username": "jhlanger"`
   
-}`
+`}`
 
 
 * User Post: 
+
 `{`
 
-  `"username": "jhlanger",`
+ `"username": "jhlanger",`
 
- ` "email": "jhlanger@test.com"`
+ `"email": "jhlanger@test.com"`
 
 `}`
 
